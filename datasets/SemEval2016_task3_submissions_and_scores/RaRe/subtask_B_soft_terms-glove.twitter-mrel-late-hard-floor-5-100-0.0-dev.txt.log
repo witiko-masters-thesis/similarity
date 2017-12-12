@@ -1,0 +1,7 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading projection weights from datasets/glove.twitter.27B.200d.w2v
+loaded (1193514, 200) matrix from datasets/glove.twitter.27B.200d.w2v
+Time elapsed: 0:22:55.814810

@@ -1,0 +1,6 @@
+precomputing L2-norms of word weight vectors
+Time elapsed: 8:34:03.899600
+Matrix density:
+- 1.0000000000 by word2vec,
+- 0.0021453754 by kNN,
+- 0.0021453754 by thresholding

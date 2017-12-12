@@ -1,0 +1,27 @@
+adding document #0 to Dictionary(0 unique tokens: [])
+adding document #10000 to Dictionary(83269 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #20000 to Dictionary(123815 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #30000 to Dictionary(153635 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #40000 to Dictionary(180907 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #50000 to Dictionary(205904 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #60000 to Dictionary(228480 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #70000 to Dictionary(250601 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #80000 to Dictionary(271053 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #90000 to Dictionary(290552 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #100000 to Dictionary(311428 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #110000 to Dictionary(332288 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #120000 to Dictionary(349685 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #130000 to Dictionary(365867 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #140000 to Dictionary(383293 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #150000 to Dictionary(405036 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #160000 to Dictionary(420188 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #170000 to Dictionary(437109 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+adding document #180000 to Dictionary(452674 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...)
+built Dictionary(466585 unique tokens: ['state', 'internet', 'thailand', 'minsitry', 'blocks']...) from 189941 documents (total 40082031 corpus positions)
+Average number of tokens per a document: 211.023586
+Average number of terms per a document:  125.053306
+saving Dictionary object under datasets/QL-unannotated-data-subtaskA.dict, separately None
+saved datasets/QL-unannotated-data-subtaskA.dict
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+Time elapsed: 22:30:07.254877

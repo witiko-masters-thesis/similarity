@@ -1,0 +1,9 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading projection weights from datasets/glove.840B.300d.w2v
+duplicate word '����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������' in datasets/glove.840B.300d.w2v, ignoring all but first
+duplicate words detected, shrinking matrix size from 2196017 to 2196016
+loaded (2196016, 300) matrix from datasets/glove.840B.300d.w2v
+Time elapsed: 0:36:26.791081

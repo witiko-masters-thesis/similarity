@@ -1,0 +1,5 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+Time elapsed: 0:02:56.142336

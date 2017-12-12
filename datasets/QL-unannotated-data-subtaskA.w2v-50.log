@@ -1,0 +1,453 @@
+collecting all words and their counts
+PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+PROGRESS: at sentence #10000, processed 172737 words, keeping 20104 word types
+PROGRESS: at sentence #20000, processed 345839 words, keeping 29728 word types
+PROGRESS: at sentence #30000, processed 541387 words, keeping 38021 word types
+PROGRESS: at sentence #40000, processed 705012 words, keeping 43990 word types
+PROGRESS: at sentence #50000, processed 867751 words, keeping 49415 word types
+PROGRESS: at sentence #60000, processed 1050796 words, keeping 54831 word types
+PROGRESS: at sentence #70000, processed 1229074 words, keeping 59838 word types
+PROGRESS: at sentence #80000, processed 1420165 words, keeping 64817 word types
+PROGRESS: at sentence #90000, processed 1587101 words, keeping 69067 word types
+PROGRESS: at sentence #100000, processed 1763270 words, keeping 74191 word types
+PROGRESS: at sentence #110000, processed 1937943 words, keeping 78239 word types
+PROGRESS: at sentence #120000, processed 2124106 words, keeping 82124 word types
+PROGRESS: at sentence #130000, processed 2297851 words, keeping 86056 word types
+PROGRESS: at sentence #140000, processed 2484533 words, keeping 89718 word types
+PROGRESS: at sentence #150000, processed 2658965 words, keeping 93703 word types
+PROGRESS: at sentence #160000, processed 2831964 words, keeping 97469 word types
+PROGRESS: at sentence #170000, processed 3004815 words, keeping 100604 word types
+PROGRESS: at sentence #180000, processed 3168732 words, keeping 103713 word types
+PROGRESS: at sentence #190000, processed 3346769 words, keeping 106976 word types
+PROGRESS: at sentence #200000, processed 3526530 words, keeping 111264 word types
+PROGRESS: at sentence #210000, processed 3702189 words, keeping 114063 word types
+PROGRESS: at sentence #220000, processed 3880709 words, keeping 117502 word types
+PROGRESS: at sentence #230000, processed 4049166 words, keeping 120361 word types
+PROGRESS: at sentence #240000, processed 4231008 words, keeping 123607 word types
+PROGRESS: at sentence #250000, processed 4398630 words, keeping 126401 word types
+PROGRESS: at sentence #260000, processed 4580807 words, keeping 129287 word types
+PROGRESS: at sentence #270000, processed 4748960 words, keeping 131845 word types
+PROGRESS: at sentence #280000, processed 4920976 words, keeping 134434 word types
+PROGRESS: at sentence #290000, processed 5088921 words, keeping 136830 word types
+PROGRESS: at sentence #300000, processed 5262006 words, keeping 139507 word types
+PROGRESS: at sentence #310000, processed 5444734 words, keeping 142057 word types
+PROGRESS: at sentence #320000, processed 5621895 words, keeping 144662 word types
+PROGRESS: at sentence #330000, processed 5790579 words, keeping 147118 word types
+PROGRESS: at sentence #340000, processed 5956885 words, keeping 149682 word types
+PROGRESS: at sentence #350000, processed 6149489 words, keeping 152116 word types
+PROGRESS: at sentence #360000, processed 6324876 words, keeping 154284 word types
+PROGRESS: at sentence #370000, processed 6494481 words, keeping 156918 word types
+PROGRESS: at sentence #380000, processed 6702410 words, keeping 159536 word types
+PROGRESS: at sentence #390000, processed 6876871 words, keeping 161763 word types
+PROGRESS: at sentence #400000, processed 7042982 words, keeping 164189 word types
+PROGRESS: at sentence #410000, processed 7228304 words, keeping 166304 word types
+PROGRESS: at sentence #420000, processed 7404872 words, keeping 168632 word types
+PROGRESS: at sentence #430000, processed 7586564 words, keeping 170761 word types
+PROGRESS: at sentence #440000, processed 7770315 words, keeping 172904 word types
+PROGRESS: at sentence #450000, processed 7929285 words, keeping 174935 word types
+PROGRESS: at sentence #460000, processed 8095331 words, keeping 177085 word types
+PROGRESS: at sentence #470000, processed 8269603 words, keeping 179292 word types
+PROGRESS: at sentence #480000, processed 8447431 words, keeping 181624 word types
+PROGRESS: at sentence #490000, processed 8623639 words, keeping 183884 word types
+PROGRESS: at sentence #500000, processed 8800690 words, keeping 185676 word types
+PROGRESS: at sentence #510000, processed 8984653 words, keeping 188272 word types
+PROGRESS: at sentence #520000, processed 9166024 words, keeping 190307 word types
+PROGRESS: at sentence #530000, processed 9334639 words, keeping 192216 word types
+PROGRESS: at sentence #540000, processed 9509735 words, keeping 194194 word types
+PROGRESS: at sentence #550000, processed 9696898 words, keeping 196970 word types
+PROGRESS: at sentence #560000, processed 9887957 words, keeping 199018 word types
+PROGRESS: at sentence #570000, processed 10078062 words, keeping 201222 word types
+PROGRESS: at sentence #580000, processed 10245302 words, keeping 202959 word types
+PROGRESS: at sentence #590000, processed 10409273 words, keeping 204834 word types
+PROGRESS: at sentence #600000, processed 10579535 words, keeping 206739 word types
+PROGRESS: at sentence #610000, processed 10757070 words, keeping 208530 word types
+PROGRESS: at sentence #620000, processed 10932962 words, keeping 210411 word types
+PROGRESS: at sentence #630000, processed 11098510 words, keeping 212272 word types
+PROGRESS: at sentence #640000, processed 11266926 words, keeping 214154 word types
+PROGRESS: at sentence #650000, processed 11434196 words, keeping 215870 word types
+PROGRESS: at sentence #660000, processed 11611706 words, keeping 217622 word types
+PROGRESS: at sentence #670000, processed 11793736 words, keeping 219489 word types
+PROGRESS: at sentence #680000, processed 11965628 words, keeping 221385 word types
+PROGRESS: at sentence #690000, processed 12170985 words, keeping 223348 word types
+PROGRESS: at sentence #700000, processed 12338675 words, keeping 225158 word types
+PROGRESS: at sentence #710000, processed 12560641 words, keeping 227269 word types
+PROGRESS: at sentence #720000, processed 12731283 words, keeping 228966 word types
+PROGRESS: at sentence #730000, processed 12905908 words, keeping 230671 word types
+PROGRESS: at sentence #740000, processed 13081452 words, keeping 232401 word types
+PROGRESS: at sentence #750000, processed 13247045 words, keeping 234317 word types
+PROGRESS: at sentence #760000, processed 13425015 words, keeping 236098 word types
+PROGRESS: at sentence #770000, processed 13594136 words, keeping 237864 word types
+PROGRESS: at sentence #780000, processed 13756635 words, keeping 239574 word types
+PROGRESS: at sentence #790000, processed 13934605 words, keeping 241414 word types
+PROGRESS: at sentence #800000, processed 14166572 words, keeping 243687 word types
+PROGRESS: at sentence #810000, processed 14349988 words, keeping 245733 word types
+PROGRESS: at sentence #820000, processed 14529805 words, keeping 247566 word types
+PROGRESS: at sentence #830000, processed 14707394 words, keeping 249148 word types
+PROGRESS: at sentence #840000, processed 14879035 words, keeping 250932 word types
+PROGRESS: at sentence #850000, processed 15056677 words, keeping 252779 word types
+PROGRESS: at sentence #860000, processed 15234908 words, keeping 254484 word types
+PROGRESS: at sentence #870000, processed 15419869 words, keeping 256328 word types
+PROGRESS: at sentence #880000, processed 15593356 words, keeping 258038 word types
+PROGRESS: at sentence #890000, processed 15760864 words, keeping 260002 word types
+PROGRESS: at sentence #900000, processed 15940085 words, keeping 261702 word types
+PROGRESS: at sentence #910000, processed 16103555 words, keeping 263328 word types
+PROGRESS: at sentence #920000, processed 16279511 words, keeping 264963 word types
+PROGRESS: at sentence #930000, processed 16453098 words, keeping 266500 word types
+PROGRESS: at sentence #940000, processed 16624555 words, keeping 268002 word types
+PROGRESS: at sentence #950000, processed 16803190 words, keeping 269581 word types
+PROGRESS: at sentence #960000, processed 16984905 words, keeping 272139 word types
+PROGRESS: at sentence #970000, processed 17159860 words, keeping 274202 word types
+PROGRESS: at sentence #980000, processed 17330576 words, keeping 275849 word types
+PROGRESS: at sentence #990000, processed 17512197 words, keeping 277381 word types
+PROGRESS: at sentence #1000000, processed 17689017 words, keeping 279214 word types
+PROGRESS: at sentence #1010000, processed 17868795 words, keeping 280850 word types
+PROGRESS: at sentence #1020000, processed 18048390 words, keeping 282411 word types
+PROGRESS: at sentence #1030000, processed 18224819 words, keeping 284054 word types
+PROGRESS: at sentence #1040000, processed 18392025 words, keeping 285428 word types
+PROGRESS: at sentence #1050000, processed 18577418 words, keeping 286981 word types
+PROGRESS: at sentence #1060000, processed 18743300 words, keeping 288543 word types
+PROGRESS: at sentence #1070000, processed 18922905 words, keeping 290010 word types
+PROGRESS: at sentence #1080000, processed 19095717 words, keeping 291423 word types
+PROGRESS: at sentence #1090000, processed 19271298 words, keeping 293091 word types
+PROGRESS: at sentence #1100000, processed 19456458 words, keeping 295797 word types
+PROGRESS: at sentence #1110000, processed 19628269 words, keeping 297258 word types
+PROGRESS: at sentence #1120000, processed 19805570 words, keeping 298808 word types
+PROGRESS: at sentence #1130000, processed 19976215 words, keeping 300554 word types
+PROGRESS: at sentence #1140000, processed 20098921 words, keeping 301633 word types
+PROGRESS: at sentence #1150000, processed 20273590 words, keeping 303165 word types
+PROGRESS: at sentence #1160000, processed 20456261 words, keeping 304629 word types
+PROGRESS: at sentence #1170000, processed 20632018 words, keeping 306121 word types
+PROGRESS: at sentence #1180000, processed 20802041 words, keeping 307592 word types
+PROGRESS: at sentence #1190000, processed 20976344 words, keeping 309098 word types
+PROGRESS: at sentence #1200000, processed 21156021 words, keeping 310948 word types
+PROGRESS: at sentence #1210000, processed 21346018 words, keeping 312531 word types
+PROGRESS: at sentence #1220000, processed 21526812 words, keeping 314135 word types
+PROGRESS: at sentence #1230000, processed 21701106 words, keeping 315989 word types
+PROGRESS: at sentence #1240000, processed 21886251 words, keeping 317973 word types
+PROGRESS: at sentence #1250000, processed 22060400 words, keeping 319349 word types
+PROGRESS: at sentence #1260000, processed 22235783 words, keeping 320746 word types
+PROGRESS: at sentence #1270000, processed 22398873 words, keeping 322421 word types
+PROGRESS: at sentence #1280000, processed 22586097 words, keeping 323917 word types
+PROGRESS: at sentence #1290000, processed 22763002 words, keeping 325436 word types
+PROGRESS: at sentence #1300000, processed 22954748 words, keeping 327011 word types
+PROGRESS: at sentence #1310000, processed 23120401 words, keeping 328644 word types
+PROGRESS: at sentence #1320000, processed 23353724 words, keeping 331652 word types
+PROGRESS: at sentence #1330000, processed 23514371 words, keeping 333107 word types
+PROGRESS: at sentence #1340000, processed 23688840 words, keeping 334607 word types
+PROGRESS: at sentence #1350000, processed 23858232 words, keeping 336001 word types
+PROGRESS: at sentence #1360000, processed 24037999 words, keeping 337500 word types
+PROGRESS: at sentence #1370000, processed 24197354 words, keeping 339324 word types
+PROGRESS: at sentence #1380000, processed 24374826 words, keeping 340922 word types
+PROGRESS: at sentence #1390000, processed 24558047 words, keeping 342371 word types
+PROGRESS: at sentence #1400000, processed 24724243 words, keeping 343737 word types
+PROGRESS: at sentence #1410000, processed 24902419 words, keeping 345275 word types
+PROGRESS: at sentence #1420000, processed 25072003 words, keeping 346803 word types
+PROGRESS: at sentence #1430000, processed 25231798 words, keeping 348080 word types
+PROGRESS: at sentence #1440000, processed 25407200 words, keeping 349424 word types
+PROGRESS: at sentence #1450000, processed 25575184 words, keeping 350803 word types
+PROGRESS: at sentence #1460000, processed 25753659 words, keeping 352307 word types
+PROGRESS: at sentence #1470000, processed 25933492 words, keeping 353580 word types
+PROGRESS: at sentence #1480000, processed 26109467 words, keeping 354829 word types
+PROGRESS: at sentence #1490000, processed 26276237 words, keeping 356087 word types
+PROGRESS: at sentence #1500000, processed 26444828 words, keeping 357533 word types
+PROGRESS: at sentence #1510000, processed 26627232 words, keeping 358915 word types
+PROGRESS: at sentence #1520000, processed 26789592 words, keeping 360084 word types
+PROGRESS: at sentence #1530000, processed 26968376 words, keeping 361297 word types
+PROGRESS: at sentence #1540000, processed 27143179 words, keeping 362636 word types
+PROGRESS: at sentence #1550000, processed 27318097 words, keeping 364005 word types
+PROGRESS: at sentence #1560000, processed 27509735 words, keeping 365303 word types
+PROGRESS: at sentence #1570000, processed 27683978 words, keeping 366521 word types
+PROGRESS: at sentence #1580000, processed 27872466 words, keeping 367908 word types
+PROGRESS: at sentence #1590000, processed 28067991 words, keeping 369176 word types
+PROGRESS: at sentence #1600000, processed 28249557 words, keeping 370746 word types
+PROGRESS: at sentence #1610000, processed 28415045 words, keeping 372203 word types
+PROGRESS: at sentence #1620000, processed 28585010 words, keeping 374424 word types
+PROGRESS: at sentence #1630000, processed 28758950 words, keeping 375787 word types
+PROGRESS: at sentence #1640000, processed 28928501 words, keeping 377115 word types
+PROGRESS: at sentence #1650000, processed 29114855 words, keeping 378590 word types
+PROGRESS: at sentence #1660000, processed 29289281 words, keeping 379923 word types
+PROGRESS: at sentence #1670000, processed 29464804 words, keeping 381265 word types
+PROGRESS: at sentence #1680000, processed 29634630 words, keeping 382709 word types
+PROGRESS: at sentence #1690000, processed 29807475 words, keeping 383796 word types
+PROGRESS: at sentence #1700000, processed 29995075 words, keeping 387684 word types
+PROGRESS: at sentence #1710000, processed 30165955 words, keeping 389019 word types
+PROGRESS: at sentence #1720000, processed 30342184 words, keeping 390242 word types
+PROGRESS: at sentence #1730000, processed 30512845 words, keeping 391361 word types
+PROGRESS: at sentence #1740000, processed 30683493 words, keeping 392672 word types
+PROGRESS: at sentence #1750000, processed 30853822 words, keeping 393948 word types
+PROGRESS: at sentence #1760000, processed 31025574 words, keeping 395534 word types
+PROGRESS: at sentence #1770000, processed 31198370 words, keeping 396839 word types
+PROGRESS: at sentence #1780000, processed 31370241 words, keeping 398041 word types
+PROGRESS: at sentence #1790000, processed 31542621 words, keeping 399202 word types
+PROGRESS: at sentence #1800000, processed 31718088 words, keeping 404667 word types
+PROGRESS: at sentence #1810000, processed 31891397 words, keeping 405999 word types
+PROGRESS: at sentence #1820000, processed 32069645 words, keeping 407473 word types
+PROGRESS: at sentence #1830000, processed 32241168 words, keeping 408741 word types
+PROGRESS: at sentence #1840000, processed 32409572 words, keeping 409900 word types
+PROGRESS: at sentence #1850000, processed 32573434 words, keeping 411137 word types
+PROGRESS: at sentence #1860000, processed 32736436 words, keeping 412501 word types
+PROGRESS: at sentence #1870000, processed 32914216 words, keeping 413533 word types
+PROGRESS: at sentence #1880000, processed 33078731 words, keeping 414971 word types
+PROGRESS: at sentence #1890000, processed 33257338 words, keeping 416111 word types
+PROGRESS: at sentence #1900000, processed 33438240 words, keeping 417442 word types
+PROGRESS: at sentence #1910000, processed 33606396 words, keeping 418545 word types
+PROGRESS: at sentence #1920000, processed 33791005 words, keeping 419921 word types
+PROGRESS: at sentence #1930000, processed 33973695 words, keeping 422509 word types
+PROGRESS: at sentence #1940000, processed 34156790 words, keeping 425031 word types
+PROGRESS: at sentence #1950000, processed 34344177 words, keeping 426369 word types
+PROGRESS: at sentence #1960000, processed 34519580 words, keeping 427452 word types
+PROGRESS: at sentence #1970000, processed 34692084 words, keeping 428671 word types
+PROGRESS: at sentence #1980000, processed 34874360 words, keeping 429957 word types
+PROGRESS: at sentence #1990000, processed 35047271 words, keeping 431058 word types
+PROGRESS: at sentence #2000000, processed 35224478 words, keeping 432233 word types
+PROGRESS: at sentence #2010000, processed 35396953 words, keeping 433298 word types
+PROGRESS: at sentence #2020000, processed 35586882 words, keeping 434626 word types
+PROGRESS: at sentence #2030000, processed 35776082 words, keeping 436205 word types
+PROGRESS: at sentence #2040000, processed 35947233 words, keeping 437387 word types
+PROGRESS: at sentence #2050000, processed 36132584 words, keeping 439457 word types
+PROGRESS: at sentence #2060000, processed 36304038 words, keeping 440529 word types
+PROGRESS: at sentence #2070000, processed 36481685 words, keeping 441683 word types
+PROGRESS: at sentence #2080000, processed 36662744 words, keeping 442962 word types
+PROGRESS: at sentence #2090000, processed 36839555 words, keeping 444130 word types
+PROGRESS: at sentence #2100000, processed 37013575 words, keeping 445533 word types
+PROGRESS: at sentence #2110000, processed 37180213 words, keeping 446589 word types
+PROGRESS: at sentence #2120000, processed 37362711 words, keeping 447983 word types
+PROGRESS: at sentence #2130000, processed 37534551 words, keeping 449263 word types
+PROGRESS: at sentence #2140000, processed 37703531 words, keeping 450660 word types
+PROGRESS: at sentence #2150000, processed 37871019 words, keeping 451892 word types
+PROGRESS: at sentence #2160000, processed 38035453 words, keeping 452972 word types
+PROGRESS: at sentence #2170000, processed 38227796 words, keeping 454230 word types
+PROGRESS: at sentence #2180000, processed 38399501 words, keeping 455427 word types
+PROGRESS: at sentence #2190000, processed 38586101 words, keeping 456612 word types
+PROGRESS: at sentence #2200000, processed 38760313 words, keeping 457766 word types
+PROGRESS: at sentence #2210000, processed 38938428 words, keeping 458925 word types
+PROGRESS: at sentence #2220000, processed 39134497 words, keeping 460307 word types
+PROGRESS: at sentence #2230000, processed 39309267 words, keeping 461416 word types
+PROGRESS: at sentence #2240000, processed 39489955 words, keeping 462614 word types
+PROGRESS: at sentence #2250000, processed 39673092 words, keeping 464102 word types
+PROGRESS: at sentence #2260000, processed 39844051 words, keeping 465196 word types
+PROGRESS: at sentence #2270000, processed 40010658 words, keeping 466183 word types
+collected 466585 word types from a corpus of 40082031 raw words and 2274338 sentences
+Loading a fresh vocabulary
+min_count=50 retains 27958 unique words (5% of original 466585, drops 438627)
+min_count=50 leaves 38454170 word corpus (95% of original 40082031, drops 1627861)
+deleting the raw counts dictionary of 466585 items
+sample=0.001 downsamples 26 most-common words
+downsampling leaves estimated 37400647 word corpus (97.3% of prior 38454170)
+estimated required memory for 27958 words and 300 dimensions: 81078200 bytes
+resetting layer weights
+training model with 32 workers on 27958 vocabulary and 300 features, using sg=0 hs=0 sample=0.001 negative=5 window=5
+PROGRESS: at 0.52% examples, 951299 words/s, in_qsize 64, out_qsize 3
+PROGRESS: at 1.11% examples, 1029954 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 1.69% examples, 1047112 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 2.29% examples, 1056723 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 2.83% examples, 1044802 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 3.44% examples, 1057614 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 3.99% examples, 1054414 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 4.51% examples, 1041759 words/s, in_qsize 57, out_qsize 6
+PROGRESS: at 5.10% examples, 1048334 words/s, in_qsize 61, out_qsize 3
+PROGRESS: at 5.69% examples, 1050364 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 6.25% examples, 1052000 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 6.83% examples, 1054108 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 7.36% examples, 1050843 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 7.91% examples, 1049354 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 8.47% examples, 1047135 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 8.99% examples, 1041797 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 9.57% examples, 1044075 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 10.19% examples, 1045675 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 10.76% examples, 1046006 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 11.32% examples, 1046282 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 11.85% examples, 1044587 words/s, in_qsize 59, out_qsize 4
+PROGRESS: at 12.39% examples, 1042117 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 13.00% examples, 1045032 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 13.61% examples, 1048015 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 14.13% examples, 1045697 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 14.70% examples, 1045899 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 15.28% examples, 1045957 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 15.88% examples, 1047159 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 16.47% examples, 1048055 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 16.99% examples, 1045253 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 17.54% examples, 1045231 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 18.11% examples, 1043791 words/s, in_qsize 64, out_qsize 2
+PROGRESS: at 18.67% examples, 1043759 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 19.26% examples, 1044943 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 19.83% examples, 1045583 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 20.41% examples, 1046457 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 20.99% examples, 1046734 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 21.54% examples, 1045360 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 22.10% examples, 1045618 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 22.67% examples, 1045471 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 23.23% examples, 1045706 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 23.83% examples, 1047958 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 24.46% examples, 1050148 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 25.00% examples, 1049512 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 25.60% examples, 1050096 words/s, in_qsize 63, out_qsize 4
+PROGRESS: at 26.20% examples, 1051806 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 26.75% examples, 1051238 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 27.30% examples, 1050795 words/s, in_qsize 61, out_qsize 7
+PROGRESS: at 27.92% examples, 1052606 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 28.44% examples, 1050645 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 29.01% examples, 1050509 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 29.58% examples, 1050507 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 30.20% examples, 1051622 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 30.77% examples, 1051729 words/s, in_qsize 62, out_qsize 2
+PROGRESS: at 31.30% examples, 1050461 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 31.84% examples, 1050400 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 32.42% examples, 1050348 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 33.05% examples, 1051583 words/s, in_qsize 62, out_qsize 2
+PROGRESS: at 33.72% examples, 1054632 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 34.25% examples, 1053618 words/s, in_qsize 61, out_qsize 3
+PROGRESS: at 34.82% examples, 1053664 words/s, in_qsize 59, out_qsize 5
+PROGRESS: at 35.44% examples, 1055112 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 36.01% examples, 1054760 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 36.57% examples, 1053733 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 37.14% examples, 1054066 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 37.68% examples, 1053689 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 38.22% examples, 1053251 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 38.80% examples, 1053322 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 39.36% examples, 1053124 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 39.92% examples, 1053116 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 40.54% examples, 1054270 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 41.06% examples, 1053228 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 41.64% examples, 1053262 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 42.18% examples, 1052556 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 42.72% examples, 1051768 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 43.29% examples, 1052230 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 43.85% examples, 1052073 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 44.45% examples, 1052463 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 45.00% examples, 1052596 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 45.59% examples, 1052795 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 46.15% examples, 1052784 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 46.76% examples, 1053980 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 47.36% examples, 1054433 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 47.94% examples, 1054697 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 48.52% examples, 1054949 words/s, in_qsize 62, out_qsize 3
+PROGRESS: at 49.12% examples, 1055688 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 49.68% examples, 1055540 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 50.28% examples, 1055659 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 50.81% examples, 1055071 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 51.39% examples, 1055519 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 51.97% examples, 1055585 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 52.55% examples, 1055499 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 53.15% examples, 1055941 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 53.71% examples, 1055852 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 54.25% examples, 1055633 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 54.85% examples, 1055989 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 55.39% examples, 1055220 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 56.00% examples, 1055757 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 56.59% examples, 1055816 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 57.11% examples, 1054966 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 57.68% examples, 1054863 words/s, in_qsize 62, out_qsize 2
+PROGRESS: at 58.26% examples, 1055193 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 58.83% examples, 1055000 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 59.39% examples, 1054855 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 59.92% examples, 1054265 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 60.53% examples, 1054936 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 61.10% examples, 1055124 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 61.63% examples, 1054202 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 62.20% examples, 1054244 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 62.76% examples, 1054133 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 63.35% examples, 1054663 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 63.94% examples, 1055106 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 64.52% examples, 1054870 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 65.06% examples, 1054832 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 65.63% examples, 1054635 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 66.15% examples, 1054120 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 66.72% examples, 1054199 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 67.28% examples, 1054257 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 67.84% examples, 1053834 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 68.43% examples, 1054088 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 68.99% examples, 1054012 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 69.59% examples, 1054367 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 70.21% examples, 1054776 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 70.75% examples, 1054546 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 71.30% examples, 1053843 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 71.86% examples, 1054065 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 72.44% examples, 1054066 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 73.04% examples, 1054238 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 73.63% examples, 1054390 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 74.15% examples, 1053989 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 74.73% examples, 1054222 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 75.33% examples, 1054495 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 75.94% examples, 1054831 words/s, in_qsize 60, out_qsize 3
+PROGRESS: at 76.62% examples, 1056011 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 77.23% examples, 1056613 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 77.87% examples, 1057741 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 78.46% examples, 1058121 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 79.13% examples, 1059402 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 79.77% examples, 1060416 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 80.40% examples, 1061094 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 81.03% examples, 1061861 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 81.65% examples, 1062519 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 82.27% examples, 1063024 words/s, in_qsize 64, out_qsize 1
+PROGRESS: at 82.90% examples, 1063602 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 83.53% examples, 1064511 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 84.18% examples, 1065428 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 84.82% examples, 1066360 words/s, in_qsize 63, out_qsize 1
+PROGRESS: at 85.44% examples, 1066926 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 86.09% examples, 1067760 words/s, in_qsize 64, out_qsize 3
+PROGRESS: at 86.74% examples, 1068822 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 87.38% examples, 1069738 words/s, in_qsize 59, out_qsize 4
+PROGRESS: at 88.01% examples, 1070395 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 88.63% examples, 1070865 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 89.28% examples, 1071712 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 89.94% examples, 1072598 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 90.62% examples, 1073650 words/s, in_qsize 63, out_qsize 3
+PROGRESS: at 91.25% examples, 1074432 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 91.89% examples, 1075257 words/s, in_qsize 64, out_qsize 3
+PROGRESS: at 92.54% examples, 1075936 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 93.19% examples, 1076575 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 93.82% examples, 1077238 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 94.45% examples, 1077887 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 95.10% examples, 1078378 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 95.76% examples, 1079018 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 96.44% examples, 1079851 words/s, in_qsize 61, out_qsize 2
+PROGRESS: at 97.08% examples, 1080637 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 97.71% examples, 1081233 words/s, in_qsize 64, out_qsize 0
+PROGRESS: at 98.31% examples, 1081487 words/s, in_qsize 62, out_qsize 1
+PROGRESS: at 98.95% examples, 1081982 words/s, in_qsize 63, out_qsize 0
+PROGRESS: at 99.54% examples, 1082318 words/s, in_qsize 63, out_qsize 1
+worker thread finished; awaiting finish of 31 more threads
+worker thread finished; awaiting finish of 30 more threads
+worker thread finished; awaiting finish of 29 more threads
+worker thread finished; awaiting finish of 28 more threads
+worker thread finished; awaiting finish of 27 more threads
+worker thread finished; awaiting finish of 26 more threads
+worker thread finished; awaiting finish of 25 more threads
+worker thread finished; awaiting finish of 24 more threads
+worker thread finished; awaiting finish of 23 more threads
+worker thread finished; awaiting finish of 22 more threads
+worker thread finished; awaiting finish of 21 more threads
+worker thread finished; awaiting finish of 20 more threads
+worker thread finished; awaiting finish of 19 more threads
+worker thread finished; awaiting finish of 18 more threads
+worker thread finished; awaiting finish of 17 more threads
+worker thread finished; awaiting finish of 16 more threads
+worker thread finished; awaiting finish of 15 more threads
+worker thread finished; awaiting finish of 14 more threads
+worker thread finished; awaiting finish of 13 more threads
+worker thread finished; awaiting finish of 12 more threads
+worker thread finished; awaiting finish of 11 more threads
+worker thread finished; awaiting finish of 10 more threads
+worker thread finished; awaiting finish of 9 more threads
+worker thread finished; awaiting finish of 8 more threads
+worker thread finished; awaiting finish of 7 more threads
+worker thread finished; awaiting finish of 6 more threads
+worker thread finished; awaiting finish of 5 more threads
+worker thread finished; awaiting finish of 4 more threads
+worker thread finished; awaiting finish of 3 more threads
+worker thread finished; awaiting finish of 2 more threads
+worker thread finished; awaiting finish of 1 more threads
+worker thread finished; awaiting finish of 0 more threads
+training on 200410155 raw words (186826652 effective words) took 172.4s, 1083559 effective words/s
+saving Word2Vec object under datasets/QL-unannotated-data-subtaskA.w2v-50, separately None
+not storing attribute syn0norm
+not storing attribute cum_table
+saved datasets/QL-unannotated-data-subtaskA.w2v-50
+loading Word2Vec object from datasets/QL-unannotated-data-subtaskA.w2v-50
+loading wv recursively from datasets/QL-unannotated-data-subtaskA.w2v-50.wv.* with mmap=r
+setting ignored attribute syn0norm to None
+setting ignored attribute cum_table to None
+loaded datasets/QL-unannotated-data-subtaskA.w2v-50
+Time elapsed: 0:03:53.612373
+Number of terms in the model: 27958

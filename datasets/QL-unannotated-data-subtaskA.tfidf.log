@@ -1,0 +1,26 @@
+collecting document frequencies
+PROGRESS: processing document #0
+PROGRESS: processing document #10000
+PROGRESS: processing document #20000
+PROGRESS: processing document #30000
+PROGRESS: processing document #40000
+PROGRESS: processing document #50000
+PROGRESS: processing document #60000
+PROGRESS: processing document #70000
+PROGRESS: processing document #80000
+PROGRESS: processing document #90000
+PROGRESS: processing document #100000
+PROGRESS: processing document #110000
+PROGRESS: processing document #120000
+PROGRESS: processing document #130000
+PROGRESS: processing document #140000
+PROGRESS: processing document #150000
+PROGRESS: processing document #160000
+PROGRESS: processing document #170000
+PROGRESS: processing document #180000
+calculating IDF weights for 189941 documents and 466584 features (23752750 matrix non-zeros)
+saving TfidfModel object under datasets/QL-unannotated-data-subtaskA.tfidf, separately None
+saved datasets/QL-unannotated-data-subtaskA.tfidf
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+Time elapsed: 12:19:11.468676

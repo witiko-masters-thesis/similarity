@@ -1,0 +1,10 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading Word2Vec object from datasets/QL-unannotated-data-subtaskA.w2v-50
+loading wv recursively from datasets/QL-unannotated-data-subtaskA.w2v-50.wv.* with mmap=r
+setting ignored attribute syn0norm to None
+setting ignored attribute cum_table to None
+loaded datasets/QL-unannotated-data-subtaskA.w2v-50
+Time elapsed: 0:14:42.243356

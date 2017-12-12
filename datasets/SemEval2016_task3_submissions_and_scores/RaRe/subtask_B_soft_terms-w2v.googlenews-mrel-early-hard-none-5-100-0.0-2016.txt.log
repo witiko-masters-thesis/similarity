@@ -1,0 +1,7 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading projection weights from datasets/GoogleNews-vectors-negative300.bin.gz
+loaded (3000000, 300) matrix from datasets/GoogleNews-vectors-negative300.bin.gz
+Time elapsed: 0:23:27.386282

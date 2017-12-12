@@ -1,0 +1,7 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading projection weights from datasets/wiki.en.vec
+loaded (2519370, 300) matrix from datasets/wiki.en.vec
+Time elapsed: 0:34:36.449918

@@ -1,0 +1,19 @@
+loading Dictionary object from datasets/QL-unannotated-data-subtaskA.dict
+loaded datasets/QL-unannotated-data-subtaskA.dict
+loading TfidfModel object from datasets/QL-unannotated-data-subtaskA.tfidf
+loaded datasets/QL-unannotated-data-subtaskA.tfidf
+loading Word2Vec object from datasets/QL-unannotated-data-subtaskA.w2v-5
+loading wv recursively from datasets/QL-unannotated-data-subtaskA.w2v-5.wv.* with mmap=r
+loading syn0 from datasets/QL-unannotated-data-subtaskA.w2v-5.wv.syn0.npy with mmap=r
+setting ignored attribute syn0norm to None
+loading syn1neg from datasets/QL-unannotated-data-subtaskA.w2v-5.syn1neg.npy with mmap=r
+setting ignored attribute cum_table to None
+loaded datasets/QL-unannotated-data-subtaskA.w2v-5
+Building the term similarity matrix Mrel.
+precomputing L2-norms of word weight vectors
+Time elapsed: 3:48:33.178403
+Matrix density:
+- 0.0501068533 by word2vec,
+- 0.0000501185 by kNN,
+- 0.0000501185 by thresholding
+Time elapsed: 4:19:55.686599
