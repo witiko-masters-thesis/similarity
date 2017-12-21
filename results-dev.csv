@@ -20,6 +20,7 @@ soft_terms-w2v.ql-mlev-early-soft-none-5-100-0.0,0.7136,0.8775,79.9524
 soft_terms-w2v.ql-mlev-early-soft-none-5-100-0.4,0.7127,0.8767,80.0000
 soft_terms-w2v.ql-mlev-early-soft-none-5-100-0.2,0.7126,0.8767,79.9524
 soft_terms-w2v.ql-mlev-early-soft-none-5-100-0.8,0.7109,0.8766,79.0667
+soft_terms-w2v.ql-mlev-early-soft-none-5-1000-0.0,0.7101,0.8735,78.9167
 soft_terms-w2v.ql-mrel-early-soft-none-5-100-0.8,0.7052,0.8709,78.3333
 soft_terms-w2v.ql-mrel-early-soft-none-5000-100-0.0,0.7047,0.8684,80.0000
 soft_terms-w2v.ql-mlev-early-soft-none-5-100-0.6,0.7027,0.8683,78.7333
