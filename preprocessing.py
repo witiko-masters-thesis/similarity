@@ -223,6 +223,6 @@ def segments():
     return (segment for document in documents() for segment in document.segments)
 
 class SegmentIterator():
-    """Yields all segments in the unnannotated training Qatar-Living dataset."""
+    """Yields the tokens of all segments in the unnannotated training Qatar-Living dataset."""
     def __iter__(self):
-        return segments()
+        return (segment.tokens for segment in segments())
