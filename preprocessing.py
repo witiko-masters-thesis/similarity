@@ -142,11 +142,6 @@ def segment_orgquestions(dataset_fnames):
 def segment_threads(dataset_fnames):
     """
         Segments <Thread> elements from SemEval 2016/2017 Task 3 datasets into token lists.
-        If full_threads=True, processes entire <Thread>s, otherwise processes
-        only the <RelQuestion>s.
-
-        If segment_filtering is not None, a text summarization technique is
-        used for the filtering of <Thread> segments.
     """
     segments = []
     relevant = None
