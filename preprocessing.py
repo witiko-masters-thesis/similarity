@@ -1,5 +1,6 @@
 """This module provides functions for parsing SemEval 2016/2017 Task 3 datasets."""
 
+from datetime import timedelta
 from itertools import chain
 import logging
 import pickle
