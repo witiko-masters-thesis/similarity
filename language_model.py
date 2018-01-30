@@ -13,7 +13,7 @@ from gensim import corpora, models
 from gensim.matutils import cossim
 from numpy import mean, seterr, save, load, diag
 from scipy.sparse import lil_matrix, identity, save_npz, load_npz, diags, coo_matrix
-from sparsesvd import sparsesvd
+# from sparsesvd import sparsesvd
 
 from filenames import UNANNOTATED_DATASET_FNAME, \
     UNANNOTATED_DATASET_DICTIONARY_FNAME, \
