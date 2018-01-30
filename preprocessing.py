@@ -212,7 +212,7 @@ def documents():
             DOCUMENTS = [document for document,_ in \
                          segment_threads([UNANNOTATED_DATASET_FNAME])]
             with open(PRECOOKED_FNAME, "bw") as file:
-                dump(DOCUMENTS, file)
+                pickle.dump(DOCUMENTS, file)
         
             LOGGER.info("Time elapsed: %s" % timedelta(seconds=time()-start_time))
             logging.getLogger().removeHandler(file_handler)
